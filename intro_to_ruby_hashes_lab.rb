@@ -1,6 +1,3 @@
-require 'pry'
-
-
 def new_hash
   Hash.new
 end
@@ -60,5 +57,4 @@ def monopoly_with_fourth_tier
 	    four_pieces_owned: 200
 	  }
 	}}
-# 	binding.pry
 end
