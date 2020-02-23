@@ -4,6 +4,9 @@ def new_hash
 end
 
 def actor
+  the_rock = {
+    name: "Dwayne The Rock Johnson"
+  }
 
 end
 
